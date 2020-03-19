@@ -1,3 +1,4 @@
+[LinkedIn](https://www.linkedin.com/in/alexander-lo-a2119317b/)
 ## Conway's game of life and the Sierpinski triangle
 Takes in an input of: number of rows of gameboard, number of columns of gameboardboard, number of generations, and an initial state of the gameboard [(see inputFile.txt)](https://github.com/alexlo97/Programming-projects/blob/master/inputConway.txt). Generates a different pattern in each gameboard with each board being a function of the previous
 
