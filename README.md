@@ -4,3 +4,6 @@ Takes in an input of: number of rows of gameboard, number of columns of gameboar
 
 ## Polynomial Solver
 Takes in a user input of 1 to 5 coefficients for a polynomial [(see inputPolynomial.txt)](https://github.com/alexlo97/Programming-projects/blob/master/inputPolynomial.txt) and an initial estimate of its root and displays a table of approximations using Newton's Method
+
+## Rectangle Gaskets
+Wrote a class that can be used to build rectangle gaskets that can be displayed graphically
