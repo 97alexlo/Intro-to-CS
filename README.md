@@ -15,4 +15,4 @@ Takes in a seed and a number of rows for a 2D array. Dynamically allocates a 1D 
 Uses recursion to print a triangle pattern of the square of integers
 
 ## Sin(3x) approximations
-Produces a table with each row showing the values of x, the value of sin(3*x) evaluated in three different ways, and some differences between the results of the different methods of calculation of sin (3*x)
+Produces a table with each row showing the values of x, the value of sin(3x) evaluated in three different ways, and some differences between the results of the different methods of calculation of sin (3x)
