@@ -9,4 +9,4 @@ Takes in a user input of 1 to 5 coefficients for a polynomial [(see inputPolynom
 Wrote a class that can be used to build rectangle gaskets that can be displayed graphically
 
 ## Random Fill
-Takes in a seed and a number of rows for a 2D array. Dynamically allocates a 2D array and calls a function to generate random number from 10 - 50 from a uniform distribution. Displays the 2D array.
+Takes in a seed and a number of rows for a 2D array. Dynamically allocates a 1D and 2D array and calls a function to generate random number from 10 - 50. Fills them in the 2D array and calculates the sum of each column and fills them in the 1D array. Displays both arrays.
