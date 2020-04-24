@@ -10,3 +10,6 @@ Wrote a class that can be used to build rectangle gaskets that can be displayed 
 
 ## Random Fill
 Takes in a seed and a number of rows for a 2D array. Dynamically allocates a 1D and 2D array and calls a function to generate random number from 10 - 50. Fills them in the 2D array and calculates the sum of each column and fills them in the 1D array. Displays both arrays.
+
+## Print Pattern
+Uses recursion to print a triangle pattern of integers
