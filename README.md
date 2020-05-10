@@ -1,6 +1,8 @@
 [LinkedIn](https://www.linkedin.com/in/alexander-lo-a2119317b/)
 ## Conway's game of life and the Sierpinski triangle
 Takes in a user input of: number of rows of gameboard, number of columns of gameboard, number of generations, and an initial state of the gameboard [(see inputFile.txt)](https://github.com/alexlo97/Programming-projects/blob/master/Conway_Sierpinski/inputConway.txt). Generates a different pattern on the gameboard with each board being a function of the previous
+![Output example](https://github.com/alexlo97/Programming-projects/blob/master/Conway_Sierpinski/Screen%20Shot%202020-05-09%20at%209.17.25%20PM.png
+
 
 ## Polynomial solver
 Takes in a user input of 1 to 5 coefficients for a polynomial [(see inputPolynomial.txt)](https://github.com/alexlo97/Programming-projects/blob/master/Polynomial_Solver/inputPolynomial.txt) and an initial estimate of its root and displays a table of approximations using Newton's Method
