@@ -12,7 +12,7 @@ Wrote a class that can be used to build rectangle gaskets that can be displayed 
 
 ## Random fill
 Takes in a seed and a number of rows for a 2D array. Dynamically allocates a 1D and 2D array and calls a function to generate random number from 10 - 50. Fills them in the 2D array and calculates the sum of each column and fills them in the 1D array. Displays both arrays.
-
+![Output example](https://github.com/alexlo97/Programming-projects/blob/master/Gasket/Screen%20Shot%202020-05-10%20at%201.31.01%20PM.png)
 ## Print pattern
 Uses recursion to print a triangle pattern of the square of integers
 
